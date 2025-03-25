@@ -146,9 +146,10 @@ You can mess around with it and find more events in the logs but this is just an
 </p>
 <br/>
 
-<p>
+<p>In this lab, we explored Active Directory account management by configuring account lockout policies, enabling and disabling user accounts, and analyzing security logs. We learned how to enforce security measures through Group Policy, respond to account lockouts, and monitor authentication events—essential skills for system administration and cybersecurity operations.
 </p>
-In this lab, we explored Active Directory account management by configuring account lockout policies, enabling and disabling user accounts, and analyzing security logs. We learned how to enforce security measures through Group Policy, respond to account lockouts, and monitor authentication events—essential skills for system administration and cybersecurity operations.
-<p> END OF TUTORIAL
+
+<br/>
+<p>END OF TUTORIAL
 </p>
 
